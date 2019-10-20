@@ -33,6 +33,7 @@ Additional
 Help
 https://ru.wikibooks.org/wiki/Java
 http://study-java.ru/uroki-java/urok-8-java-logicheskye-i-uslovnye-operatory/
+https://yadi.sk/d/1TZb4AztWKsqew
 
 Book for modding
 https://yadi.sk/d/OLol0bBCajn6Bw
